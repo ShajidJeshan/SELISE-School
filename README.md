@@ -1,7 +1,7 @@
 # SELISE-School
 Imagine your school name is SELISE School. Under this school/organization there are some students and teachers who you are associated with. In your school few of the admin personnel maintain all administrative tasks. Here we have 3 kinds of users (Admin, Teacher, Student); 
 
-1. You have to make an authentication and authorization api endpoint that will be responsible for login to access some private api(2 &amp; 3). (Built login registration that support 3 level role) 
+1. You have to make an authentication and authorization api endpoint that will be responsible for login to access some private api(2 and 3). (Built login registration that support 3 level role) 
 
 2. Build 2-3 api that is accessible from the public users, who may or may not be part of this organization. 
 
